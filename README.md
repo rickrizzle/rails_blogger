@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Project: Blogger Clone
 
-Things you may want to cover:
+## First Full Rails App
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Basics of Rails following 
+the [Jumpstart Lab](http://tutorials.jumpstartlab.com/projects/blogger.html) tutorial, and from
+the [Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lnav) curriculum.
